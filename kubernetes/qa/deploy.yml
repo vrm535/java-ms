@@ -5,7 +5,7 @@ metadata:
   labels:
     app: nginx
     team: idp
-  name: nginx
+  name: nginx-qa
 spec:
   replicas: 1
   selector:
